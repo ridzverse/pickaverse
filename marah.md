@@ -1,7 +1,6 @@
 Ali 'Imran 134: "...orang-orang yang menahan amarahnya dan memaafkan (kesalahan) orang. Allah menyukai orang-orang yang berbuat kebajikan."
 Al-A'raf 199: "Jadilah engkau pemaaf dan suruhlah orang mengerjakan yang ma'ruf, serta berpalinglah dari pada orang-orang yang bodoh."
 Asy-Syura 37: "Dan (bagi) orang-orang yang menjauhi dosa-dosa besar dan perbuatan-perbuatan keji, dan apabila mereka marah mereka memberi maaf."
-An-Nahl 126: "Dan jika kamu memberikan balasan, maka balaslah dengan balasan yang sama dengan siksaan yang ditimpakan kepadamu. Akan tetapi jika kamu bersabar, sesungguhnya itulah yang lebih baik bagi orang-orang yang sabar."
 Fussilat 34: "Dan tidaklah sama kebaikan dan kejahatan. Tolaklah (kejahatan itu) dengan cara yang lebih baik, maka tiba-tiba orang yang antaramu dan antara dia ada permusuhan seolah-olah telah menjadi teman yang sangat setia."
 Al-Baqarah 153: "Hai orang-orang yang beriman, jadikanlah sabar dan shalat sebagai penolongmu, sesungguhnya Allah beserta orang-orang yang sabar."
 An-Nisa 148: "Allah tidak menyukai ucapan buruk, (yang diucapkan) dengan terus terang kecuali oleh orang yang dianiaya. Allah adalah Maha Mendengar lagi Maha Mengetahui."
