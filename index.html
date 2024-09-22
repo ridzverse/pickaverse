@@ -21,7 +21,7 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            overflow: hidden; /* Disable scrollbars */
+            position: relative;
         }
 
         h1 {
@@ -76,6 +76,33 @@
         .footer a:hover {
             text-decoration: underline;
         }
+
+        /* Download Button Styling */
+        .download-button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 5px 10px; /* Smaller size */
+            font-size: 0.9rem; /* Smaller font */
+            background-color: #000000;
+            color: #000000; /* Set text color to black */
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+            margin-top: 10px; /* Reduce margin */
+        }
+
+        .download-button:hover {
+            background-color: #d0ff00;
+        }
+
+        .download-button img {
+            margin-right: 5px; /* Smaller space */
+            width: 16px; /* Smaller icon */
+            height: 16px;
+        }
     </style>
 </head>
 <body>
@@ -93,9 +120,15 @@
 
     <!-- Footer Section -->
     <div class="footer">
-        <p>PICKAVERSE by<a href="https://instagram.com/ridzwanirawan" target="_blank">ridzwanirawan</a></p>
+        <p>PICKAVERSE by <a href="https://instagram.com/ridzwanirawan" target="_blank">ridzwanirawan</a></p>
         <p><a href="https://saweria.co/ridzwanirawandonate" target="_blank">Donate</a></p>
-        <p><a href="https://quranresponse.vercel.app/privacypolicy.html" target="_blank">Kebijakan Privasi</a></p>
+        <p><a href="https://quranverse.vercel.app/privacypolicy.html" target="_blank">kebijakan privasi</a></p>
+
+        <!-- Smaller Download Button below privacy policy -->
+        <a href="pickaverse.apk" class="download-button" download>
+            <img src="https://img.icons8.com/?size=100&id=83159&format=png&color=ffffff" alt="Download Icon">
+            Unduh Aplikasi
+        </a>
     </div>
 
     <script>
